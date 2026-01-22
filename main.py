@@ -14,11 +14,11 @@ from telegram.ext import (
 from bot_email import enviar_email 
 
 # ================= CONFIGURAÇÕES =================
-EMAIL_ORIGEM = 'pvinicius768@gmail.com'  
-SENHA_EMAIL = 'mlql crdc jzlf cdqa'             
-EMAIL_DESTINO = 'philype20@hotmail.com' 
-TELEGRAM_TOKEN = '8443841482:AAH-E4Xc63FJ_vBBZaLLEvgXp_F9Crm3H9E'
-PALAVRA_CHAVE = "#movi"
+EMAIL_ORIGEM = '  '  
+SENHA_EMAIL = '  '             
+EMAIL_DESTINO = '  ' 
+TELEGRAM_TOKEN = '  '
+PALAVRA_CHAVE = "  "
 # =================================================
 
 logging.basicConfig(
@@ -63,3 +63,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
